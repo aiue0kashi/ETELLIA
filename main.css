@@ -51,7 +51,7 @@ a {
 
 /* 背景画像設置 */
 .bg {
-  background: url(../image/top_bg.png);
+  background: url("https://github.com/aiue0kashi/ETELLIA/blob/main/image/top_bg.png?raw=true");
   background-size: cover;
   background-position: center;/* 追加 */
   position: relative;
