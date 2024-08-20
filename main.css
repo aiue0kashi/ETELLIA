@@ -424,7 +424,7 @@ a {
   
         /* 背景画像固定 */
         .background {
-          background-image: url(../image/info_bg.png);
+          background-image: url("https://github.com/aiue0kashi/ETELLIA/blob/main/image/info_bg.png?raw=true");
           height: 400px;/*変更:100vh→400px*/
           width: 100vw;/*追加*/
           margin: 0 calc(50% - 50vw);/*追加*/
